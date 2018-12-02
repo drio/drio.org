@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Page list</title>
+  </head>
+  <body>
+
+  <div style="margin:25px;">
+    LIST template!
+  	<h1>{{.Title}}</h1>
+
+     {{ range .Pages }}
+     	<p style="font-size:18px;">{{.Params.title}}</p>
+      <a href="{{.URL}}">{{.Params.title}}</a>
+     {{ end }}
+
+  </div>
+
+  </body>
+</html>
