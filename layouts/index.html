@@ -14,8 +14,43 @@
 
     <div class="container">
       {{ partial "header" .}}
+
+		<!-- About -->
+      <div class="row">
+        <div class="col drio-photo-container">
+          <img src="drio-intro.jpg" alt="drio" class="drio-img">
+        </div>
+
+        <div class="col">
+					<div class="row">
+						<div class="col">
+							Hey! glad to see you here. My name is David Rio and I am a computer
+							engineer living in Charleston, SC. I help people leverage
+							technology to improve their businesses or projects by building web
+							applications, crafting data visualizations or writing analytical
+							tools. When I am not working I like to ride my bike, hike or read
+							a book.
+					  </div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col">
+							Let's talk! Email me: {{ partial "email" .}}
+						</div>
+					</div>
+        </div>
+      </div>
+
+		<!-- Projects -->
+      <div class="row">
+        <div class="col">
+					Projects
+        </div>
+      </div>
+
       {{ partial "footer" .}}
     </div>
+
 
   </body>
 </html>

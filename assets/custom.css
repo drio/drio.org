@@ -3,6 +3,14 @@
   margin-top: 15px;
 }
 
+.name {
+  margin: 0px;
+}
+
+.about-container {
+  margin-top: 5px;
+}
+
 .drio-photo-container {
   flex-grow: 0;
 }
@@ -18,6 +26,10 @@
 .uci {
   width: 20px;
   height: 5px;
+}
+
+.no-grow {
+  flew-grow: 0;
 }
 
 
