@@ -8,11 +8,21 @@ When I am not building something in a computer, I like biking, running, swimming
 and outdoor sports in general. But I guess I should tell you about my CS
 background. Here we go...
 
+{{< figure src="/drio-bikes.jpg"  width="350px" >}}
+
 My mom sent me to a programming camp when one summer when I was in high school.
 Basic was the first programming language used in the course, then C. I quickly went over all the materials and finished the different assignments.
+
+{{< figure src="/drio-hikes.jpg"  width="350px" >}}
+
 I asked the instructor if I could join the C classes. He was ok with it.
 I got fascinated with it but it would take me a few years to truly understand
-how powerful and subtle the language was. That experience started my appetite for
+how powerful and subtle the language was.
+
+{{< figure src="/drio-dive.jpg"  width="350px" >}}
+
+
+That experience started my appetite for
 understanding computers systems. That same year my parents got me a
 Sony - MSX which I use to play games and write little programs. I was fascinated
 how many things I could build with that little machine. That's my first

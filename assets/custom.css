@@ -1,0 +1,23 @@
+.container {
+  max-width: 800px;
+  margin-top: 10px;
+}
+
+.drio-photo {
+  flex-grow: 0;
+}
+
+.uci {
+  width: 20px;
+  height: 5px;
+}
+
+.uci-stripes {
+  flex-grow: 0;
+}
+
+.uci-blue { background-color: #0177C6; }
+.uci-red { background-color: #C8133C; }
+.uci-black { background-color: #000000; }
+.uci-yellow { background-color: #F8E000; }
+.uci-green { background-color: #32B332; }
