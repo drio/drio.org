@@ -1,10 +1,14 @@
 .container {
   max-width: 800px;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
-.drio-photo {
+.drio-photo-container {
   flex-grow: 0;
+}
+
+.drio-img {
+  border-radius: 5px;
 }
 
 .uci {
