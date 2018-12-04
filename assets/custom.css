@@ -11,14 +11,16 @@
   border-radius: 5px;
 }
 
+.uci-stripes {
+  flex-grow: 0;
+}
+
 .uci {
   width: 20px;
   height: 5px;
 }
 
-.uci-stripes {
-  flex-grow: 0;
-}
+
 
 .uci-blue { background-color: #0177C6; }
 .uci-red { background-color: #C8133C; }
