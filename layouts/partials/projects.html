@@ -1,0 +1,29 @@
+<!--
+{{ range .Site.Pages }}
+{{ if eq .Type "projects" }}
+  {{.Params.title}}
+  <a href="{{.URL}}">{{.Params.title}}</a>
+  <br>
+{{end}}
+{{ end }}
+-->
+
+<div id="cards" style="margin: 0 -.35rem;">
+	<div class="card-columns">
+
+		{{ range .Site.Pages }}
+		{{ if (and (eq .Type "projects") (ne .Title "Projects")) }}
+			<div class="card" style="border: 0px">
+				<a href="{{.URL}}"> 
+					<img src="/projects/{{.Params.img}}" width="257px" height="334px">
+				</a>
+				<div class="title"><a href="{{.URL}}">{{.Params.title}}</a></div>
+				<div class="desc">xxxxx</div>
+				<br>
+			</div>
+			<br>
+		{{end}}
+		{{ end }}
+
+	</div>
+</div> 
