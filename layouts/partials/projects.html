@@ -14,12 +14,14 @@
 		{{ range .Site.Pages }}
 		{{ if (and (eq .Type "projects") (ne .Title "Projects")) }}
 			<div class="card" style="border: 0px">
-				<a href="{{.URL}}"> 
-					<img src="/projects/{{.Params.img}}" width="257px" height="334px">
+				<a href="{{.Params.link}}"> 
+					<img src="/projects/{{.Params.img}}" style="border-radius: 20px"
+						width="257px" height="334px">
 				</a>
-				<div class="title"><a href="{{.URL}}">{{.Params.title}}</a></div>
-				<div class="desc">xxxxx</div>
-				<br>
+				<div class="title" style="padding-top: 5px;">
+					<a href="{{.Params.link}}">{{.Params.title}}</a>
+				</div>
+				<div class="desc" style="padding-top:5px;">{{.Content}}</div>
 			</div>
 			<br>
 		{{end}}
