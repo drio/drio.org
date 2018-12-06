@@ -8,19 +8,17 @@ When I am not building something in a computer, I like biking, running, swimming
 and outdoor sports in general. But I guess I should tell you about my CS
 background. Here we go...
 
-{{< figure src="/drio-bikes.jpg"  width="350px" >}}
+{{<figure src="/about/drio-dive.jpg"  class="about-img">}}
+{{<figure src="/about/drio-bikes.jpg"  class="about-img">}}
+{{<figure src="/about/drio-hikes.jpg"  class="about-img">}}
 
 My mom sent me to a programming camp when one summer when I was in high school.
-Basic was the first programming language used in the course, then C. I quickly went over all the materials and finished the different assignments.
-
-{{< figure src="/drio-hikes.jpg"  width="350px" >}}
+Basic was the first programming language used in the course, then C. I quickly
+went over all the materials and finished the different assignments.
 
 I asked the instructor if I could join the C classes. He was ok with it.
 I got fascinated with it but it would take me a few years to truly understand
 how powerful and subtle the language was.
-
-{{< figure src="/drio-dive.jpg"  width="350px" >}}
-
 
 That experience started my appetite for
 understanding computers systems. That same year my parents got me a
@@ -28,8 +26,7 @@ Sony - MSX which I use to play games and write little programs. I was fascinated
 how many things I could build with that little machine. That's my first
 interaction with computers.
 
-{{< figure src="/c-book.png"  width="200px" >}}
-
+{{<figure src="/about/c-book.png"  class="about-img">}}
 
 When it was time to go to college, I knew I wanted to major in CS. Most of
 friends at that time went for electronics. I remember thinking that was a bit
@@ -42,7 +39,6 @@ In college, we had to use terminals terminals connected to a big
 of terminals. At that time, the
 Internet access consisted in a couple of 128K [ISDN](https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network) pipes.
 
-{{< figure src="/freebsd.jpg"  width="200px" >}}
 
 The first year of college for
 CS is heavy on math, physics, algebra and electronics. I was more interested in
@@ -52,6 +48,8 @@ more I wanted playing with those fascinated devices. In retrospect, I wish I
 hadn't skipped my Math classes that first year through. I can't believe we are
 still teaching Math the same way. There is so much room for improvement. But I
 digress...
+
+{{<figure src="/about/freebsd.jpg"  class="about-img float-right">}}
 
 In my second year, to help paying for college, I joined the city council IT
 team. I felt like at home since all the infrastructure was UNIX based. We had
@@ -66,8 +64,7 @@ I wanted that same power at home, in my PC. At that time,
 Linux was starting. I ordered the [Slackware](http://www.slackware.com/) CDs
 and installed it in my machine. Now we were talking.
 
-{{< figure src="/linux-cds.jpg"  width="200px" >}}
-
+{{<figure src="/about/linux-cds.jpg"  class="about-img">}}
 
 In my third year, during the summer break, I accepted an internship at a
 software startup in Switzerland. They wanted to an
@@ -90,7 +87,7 @@ to run the webapp. The product did well but for different reasons the
 company didn't take off. We also offered VPN solutions based on [IPsec](https://en.wikipedia.org/wiki/IPsec) running
 [soekris](http://soekris.eu/shop/net5501_en/) hardware. Of course, also running OpenBSD.
 
-{{< figure src="/soekris.jpg"  width="200px" >}}
+{{<figure src="/about/soekris.jpg"  class="about-img float-right">}}
 
 For my final degree project, I joined forces with my good friend Sergio Ramos.
 We built a mp3 player from scratch. Both hardware and software. We used a
@@ -122,6 +119,8 @@ remember enjoying tinkering with the different OSes and the device drivers to
 make them work in our hardware. I remember sending a lot of emails to different
 mailing lists asking the different OS communities for help.
 
+{{<figure src="/about/circos.png"  class="about-img">}}
+
 After spending a couple of years at Eracks, I worked for a company in San Diego
 called Digitaria, building web apps for different companies. It was a great
 experience also since we had our own data center running all type of OSes and
@@ -139,7 +138,7 @@ work with talented scientists from a wide range of fields: Statistics, Biology,
 Computer Science, Physics. I even had the opportunity to write a
 [paper](https://github.com/drio/dnaism) as a first author.
 
-{{< figure src="/circos.png"  width="200px" >}}
+{{<figure src="/about/js.png"  class="about-img float-right" >}}
 
 After a wonderful time at Baylor, I joined a startup in San Francisco (Librato).
 We had an online product that provides metrics as a service. You sent us your the
@@ -152,8 +151,7 @@ decided to create a new product to merge all the different services that they
 had acquired. I was part of the enormously talented team that built
 the new app. What is now AppOptics.
 
-{{< figure src="/js.png"  width="200px" >}}
-
 And that is most of my carrier story. Currently, I work as a Freelancer where I
-try to bring value to my customers using my experience. Let's talk! I'd love to
-hear what you do.
+try to bring value to my customers using my experience. 
+
+Let's talk! I'd love to hear what you do.

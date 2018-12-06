@@ -32,7 +32,16 @@
   flew-grow: 0;
 }
 
+figure img {
+  float:left;
+  width: 250px;
+  padding: 10px;
+  border-radius: 15px;
+}
 
+.float-right {
+  float:right;
+}
 
 .uci-blue { background-color: #0177C6; }
 .uci-red { background-color: #C8133C; }

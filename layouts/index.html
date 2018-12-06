@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  {{ $style := resources.Get "bootstrap.css" | resources.Minify | resources.Fingerprint}}
-  {{ $styleCustom := resources.Get "custom.css" | resources.Minify | resources.Fingerprint}}
-  {{ $d3 := resources.Get "d3.v5.js" | resources.Minify | resources.Fingerprint}}
-  <head>
-    <meta charset="utf-8">
-    <title>David rio</title>
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-    <link rel="stylesheet" href="{{ $styleCustom.Permalink }}">
-    <script src="{{ $d3.Permalink}}" charset="utf-8"></script>
-  </head>
-  <body>
-
-    <div class="container">
-      {{ partial "header" .}}
+    {{ partial "header" .}}
 
 		<!-- About -->
       <div class="row">
@@ -48,8 +33,3 @@
       </div>
 
       {{ partial "footer" .}}
-    </div>
-
-
-  </body>
-</html>
