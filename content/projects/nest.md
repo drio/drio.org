@@ -6,4 +6,4 @@ img: "arduino.jpg"
 link: "https://github.com/drio/open_nest"
 ---
 
-My attempts to replicate *some* of the nest functionality using Arduino hardware.
+A modest nest-like device using Arduino hardware.

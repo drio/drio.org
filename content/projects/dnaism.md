@@ -6,5 +6,4 @@ img: "dnaism.png"
 link: "https://github.com/drio/dnaism"
 ---
 
-My attempt to bring the power of horizon charts to
-help exploring genomic data.
+Bringing the power of horizon charts to the genomic domain.

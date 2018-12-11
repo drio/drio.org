@@ -6,5 +6,4 @@ img: "temp-sensor-space.png"
 link: "https://github.com/drio/librato-esp8266"
 ---
 
-A temperature and humidity sensor that uses Librato as a
-backend to persist the measurements.
+Temperature and humidity sensor with Librato as a backend.
