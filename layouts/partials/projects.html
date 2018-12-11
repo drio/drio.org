@@ -11,7 +11,7 @@
 <div id="cards" style="margin: 0 -.35rem;">
 	<div class="card-columns">
 
-		{{ range .Site.Pages }}
+		{{ range .Site.Pages.ByDate }}
 		{{ if (and (eq .Type "projects") (ne .Title "Projects")) }}
 			<div class="card" style="border: 0px">
 				<a href="{{.Params.link}}"> 

@@ -1,6 +1,6 @@
 ---
 title: "Egjs"
-date: 2018-12-02T13:27:01-05:00
+date: 2004-01-01
 draft: true
 img: "egjs.png"
 link: "https://github.com/drio/egrl"

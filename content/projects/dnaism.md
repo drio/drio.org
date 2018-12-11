@@ -1,6 +1,6 @@
 ---
 title: "Dnaism"
-date: 2018-12-02T10:06:05-05:00
+date: 2000-01-01
 draft: true
 img: "dnaism.png"
 link: "https://github.com/drio/dnaism"

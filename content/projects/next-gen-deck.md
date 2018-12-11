@@ -1,6 +1,6 @@
 ---
 title: "Next Gen Deck"
-date: 2018-12-02T13:26:57-05:00
+date: 2007-01-02
 draft: true
 img: "next-gen-deck.png"
 link: "http://drio.github.io/next-gen-deck/"
