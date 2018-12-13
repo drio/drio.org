@@ -1,7 +1,6 @@
 ---
 title: "Asap"
 date: 2018-12-02T12:09:17-05:00
-draft: true
 ---
 
 ![](/asap-thumb.png)

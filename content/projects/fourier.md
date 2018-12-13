@@ -1,7 +1,7 @@
 ---
 title: "Fourier"
 date: 2018-12-02
-draft: true
+draft: false
 img: "fourier.jpg"
 link: "https://github.com/drio/fourier"
 ---

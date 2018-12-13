@@ -43,6 +43,18 @@ figure img {
   float:right;
 }
 
+.centered {
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -600px;
+  margin-left: -512px;
+}
+
+.img-404 {
+	border-radius: 15px;
+}
+
 .uci-blue { background-color: #0177C6; }
 .uci-red { background-color: #C8133C; }
 .uci-black { background-color: #000000; }

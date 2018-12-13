@@ -1,7 +1,7 @@
 ---
 title: "Egjs"
 date: 2004-01-01
-draft: true
+draft: false
 img: "egjs.png"
 link: "https://github.com/drio/egrl"
 ---

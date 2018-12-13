@@ -1,7 +1,7 @@
 ---
 title: "Euler"
 date: 2005-12-02
-draft: true
+draft: false
 img: "euler.jpg"
 link: "https://github.com/drio/euler"
 ---

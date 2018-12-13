@@ -1,10 +1,9 @@
 ---
 title: "About"
 date: 2018-12-02T09:44:22-05:00
-draft: true
 ---
 
-When I am not building something in a computer, I like biking, running, swimming
+When I am not building something on a computer, I like biking, running, swimming
 and outdoor sports in general. But I guess I should tell you about my CS
 background. Here we go...
 
@@ -158,7 +157,7 @@ our own datacenter running a wide range of OSes and hardware. There I also met
 my friend Manuel, a solid sysadmin with an outstanding work ethic. Thank you,
 Manuel!
 
-After a couple of years at Digitaria, I went through a carrier change (to a
+After a couple of years at Digitaria, I went through a carreer change (to a
 certain extent). I joined the Human Genome Sequencing Center in Baylor (Houston
 Texas). The position was as a Scientific Software Engineer. I joined the
 organization in a pivotal time for the genomics field. Advances in genomic
@@ -184,7 +183,7 @@ company to SolarWinds. After a few months there, management decided to create a
 new product to merge all the different services that they had acquired. I was
 part of the talented team that built the new app. What is now AppOptics.
 
-And that is most of my carrier story. Currently, I work as a Freelancer where I
+And that is most of my career story. Currently, I work as a Freelancer where I
 try to create value for my customers using my experience and skills that I have
 accumulated over the years.
 
