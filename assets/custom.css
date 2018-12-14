@@ -19,14 +19,6 @@
   border-radius: 5px;
 }
 
-.uci-stripes {
-  flex-grow: 0;
-}
-
-.uci {
-  width: 20px;
-  height: 5px;
-}
 
 .no-grow {
   flew-grow: 0;
@@ -61,8 +53,24 @@ figure.img-book-note > a > img {
 	border-radius: 0px;
 }
 
+.list-book-img {
+	width: 200px;
+	padding: 5px;
+}
+
+.uci-stripes {
+  flex-grow: 0;
+	padding: 20px;
+}
+
+.uci {
+  width: 20px;
+  height: 5px;
+}
+
 .uci-blue { background-color: #0177C6; }
 .uci-red { background-color: #C8133C; }
 .uci-black { background-color: #000000; }
 .uci-yellow { background-color: #F8E000; }
 .uci-green { background-color: #32B332; }
+

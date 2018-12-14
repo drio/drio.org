@@ -1,2 +1,12 @@
+{{ partial "header" .}}
 
-listtststs
+<div class="row">
+   {{ range .Pages }}
+    <div>
+      <a href="{{.RelPermalink}}"><img src="/books/{{.Params.img}}" class="list-book-img"></a>
+    </div>
+
+   {{ end }}
+</div>
+
+{{ partial "footer" .}}
