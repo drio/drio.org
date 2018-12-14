@@ -55,6 +55,12 @@ figure img {
 	border-radius: 15px;
 }
 
+figure.img-book-note > a > img {
+	width: 200px;
+	padding: 5px;
+	border-radius: 0px;
+}
+
 .uci-blue { background-color: #0177C6; }
 .uci-red { background-color: #C8133C; }
 .uci-black { background-color: #000000; }

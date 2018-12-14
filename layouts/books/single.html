@@ -1,0 +1,17 @@
+
+{{ partial "header" .}}
+
+<div class="text-center">
+    <h5> {{.Params.booktitle}} </h5>
+    <h6> By {{.Params.author}} </h6>
+    <br>
+    <a href="{{.Params.link}}"><img src="/books/{{.Params.img}}" class=""></a> 
+</div>
+
+<br>
+
+<div class="row"> 
+    {{.Content}} 
+</div>
+
+{{ partial "footer" .}}
