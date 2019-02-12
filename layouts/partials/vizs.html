@@ -1,13 +1,10 @@
 {{ range .Site.Pages.ByDate }}
 {{ if (and (eq .Type "vizs") (ne .Title "Vizs")) }}
-  <div class="col-sm"></div>
-  <div class="col-sm" style="border: 0px">
+  <div class="viz-entry">
     <a href="{{.Params.link}}"> 
-      <img src="/vizs/{{.Params.img}}" style="border-radius: 20px;"
-        width="" height="100">
+      <img src="/vizs/{{.Params.img}}" class="viz-image">
     </a>
   </div>
-  <div class="col-sm"></div>
   <br>
 {{end}}
 {{ end }}
