@@ -98,4 +98,5 @@ figure.img-book-note > a > img {
 
 .viz-image {
   width: 200px;
+  max-height: 250px;
 }
