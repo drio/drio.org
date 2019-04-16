@@ -21,6 +21,10 @@
   border-radius: 5px;
 }
 
+.intro-text {
+  text-align: justify;
+}
+
 .main-page-header {
   font-size: 30px;
   text-align: center;
